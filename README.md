@@ -2,8 +2,8 @@
 _______________________________________________________________________
 
 ###### Set Up:
-1. Clone repo: 
-2. Go to folder: cd flask-app
+1. Clone repo: https://github.com/VladyslavHnatchenko/flask-rest.git
+2. Go to folder: cd flask-rest
 3. Add virtualenv: python3 -m venv env
 4. Activate virtualenv: source env/bin/activate
 5. Install all libraries: pip install -r requirements.txt
