@@ -1,0 +1,6 @@
+.idea/
+env/
+migrations/
+templates/
+__pycache__/
+*.pyc
